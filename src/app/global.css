@@ -1,0 +1,10 @@
+fieldset {
+  border-style: dotted;
+  padding: 1rem;
+}
+
+.default-layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
